@@ -1,6 +1,5 @@
-package com.city.api.repository;
+package com.city.api.country;
 
-import com.city.api.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CountryRepository extends JpaRepository<Country, Long> {

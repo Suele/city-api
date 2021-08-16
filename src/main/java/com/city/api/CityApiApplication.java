@@ -1,4 +1,4 @@
-package com.city.api;
+package com.city.api.country;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

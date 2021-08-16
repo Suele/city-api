@@ -1,6 +1,5 @@
-package com.city.api;
+package com.city.api.country;
 
-import com.city.api.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
